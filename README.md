@@ -4,17 +4,6 @@ Sistema desarrollado en **C# con Visual Studio 2019** para gestionar la asistenc
 
 ---
 
-## 🚀 Funcionalidades
-
-- 🕑 Clasificación automática:
-  - ✅ Asistió
-  - ⏳ Tardanza
-  - ❌ Faltó (se registra automáticamente si no marcó).
-- 🧾 Generación de reportes diarios.
-- 💾 Exportación de reportes en PDF (usando iTextSharp).
-
----
-
 ## 📧 Contacto
 
 Desarrollado por **Jean Pierre Fajardo**  
