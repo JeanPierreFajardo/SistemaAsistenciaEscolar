@@ -16,12 +16,14 @@ Sistema desarrollado en **C# con Visual Studio 2019** para gestionar la asistenc
 
 ---
 
-## 🖥️ Capturas de pantalla
+## 📧 Contacto
 
-![Captura1](link-de-imagen-aqui)
-![Captura2](link-de-imagen-aqui)
+Desarrollado por **Jean Pierre Fajardo**  
+📬 Correo: jeanpierrefajardo97@gmail.com
+📱 TikTok / YouTube: @dnanohackers
 
 ---
+
 
 ## ⚙️ Requisitos
 
