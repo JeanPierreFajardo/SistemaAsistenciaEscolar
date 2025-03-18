@@ -1,6 +1,6 @@
 # 🎓 SistemaAsistenciaEscolar
 
-Sistema desarrollado en **C# con Visual Studio 2019** para gestionar la asistencia escolar de manera eficiente, sin necesidad de base de datos. Ideal para instituciones educativas que requieran una solución simple y funcional.
+Sistema desarrollado en **C# con Visual Studio 2019** para gestionar la asistencia escolar de manera eficiente, base de datos SQL SERVER 2014. Ideal para instituciones educativas que requieran una solución simple y funcional.
 
 ---
 
@@ -11,7 +11,6 @@ Sistema desarrollado en **C# con Visual Studio 2019** para gestionar la asistenc
   - ⏳ Tardanza
   - ❌ Faltó (se registra automáticamente si no marcó).
 - 🧾 Generación de reportes diarios.
-- 📦 Sin base de datos: todo funciona localmente.
 - 💾 Exportación de reportes en PDF (usando iTextSharp).
 
 ---
@@ -30,7 +29,7 @@ Desarrollado por **Jean Pierre Fajardo**
 - Visual Studio 2019
 - Framework .NET 4.x
 - Paquete iTextSharp para generación de PDFs
-
+- Sql Server 2014
 ---
 
 ## 📂 Instalación y uso
